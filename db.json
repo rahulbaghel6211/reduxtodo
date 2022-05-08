@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "hamhanmha",
+      "status": false,
+      "detail": "kya bat hai",
+      "id": 10
+    },
+    {
+      "title": "mikka",
+      "status": false,
+      "detail": "kyabat hai",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
